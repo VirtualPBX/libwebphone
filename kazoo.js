@@ -7,9 +7,9 @@
 	var kazoo = {
 		config: {
 			paths: {
-				AC_OETags: 'lib/dependencies/rtmp/AC_OETags.js',
-				VideoIO: 'lib/dependencies/rtmp/VideoIO',
-				SIPjs: 'lib/dependencies/sip/sip.js'
+				AC_OETags: 'lib/2600hz/dependencies/rtmp/AC_OETags.js',
+				VideoIO: 'lib/2600hz/dependencies/rtmp/VideoIO',
+				SIPjs: 'lib/2600hz/dependencies/sip/sip.js'
 			},
 		},
 		rtmp: {},
