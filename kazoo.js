@@ -12,7 +12,7 @@
 	private = {
 		config: {
 			paths: {
-				SIPjs: 'vendor/2600hz/lib/dependencies/sip/sip.js'
+				SIPjs: 'vendor/virtualpbx/sip/sip.js'
 			}
 		},
 		manualDisconnect: false,
